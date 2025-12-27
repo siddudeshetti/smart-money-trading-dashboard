@@ -2,8 +2,13 @@
 
 
 Smart Money Trading & Market Regime Detection
-
 This project detects institutional trading activity using volume, price action, and liquidity concepts.
+
+📂 Large Files
+Due to GitHub size limits, large files are hosted externally.
+- 📊 NIFTY Dataset: [Download](https://drive.google.com/file/d/1J5hgZNyG3NnGHHiWbSouctosnm9h-yzh/view?usp=drive_link)
+- 📈 Power BI Dashboard: [Download](https://drive.google.com/file/d/1TEUCJb67NXO8ZNe9cWKPVaciTVR_Xdlp/view?usp=drive_link)
+
 
 Features:
 - Smart Money indicator using volume & candle structure

@@ -33,6 +33,5 @@ The Power BI dashboard visualizes:
 - Institutional accumulation zones
 
 Author:
-
 Siddu Deshetti  
 B.Tech IT | Quant & Trading Analytics
